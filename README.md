@@ -36,17 +36,14 @@ Using **ROS 2 Jazzy**, **Gazebo Harmonic**, and an **exploration algorithm**, th
 Open **four terminals** and run the following commands:
 
 ```bash
-# Terminal 1: Launch the world in Gazebo
-ros2 launch robot_description lawn_mower world.launch.py
-
 # Terminal 2: Spawn the robot model
-ros2 launch robot_description lawn_mower spawn_robot.launch.py
+ros2 launch robot_description spawn_robot.launch.py
 
 # Terminal 3: Start the navigation stack
-ros2 launch robot_description lawn_mower navigation.launch.py
+ros2 launch robot_description navigation.launch.py
 
 # Terminal 4: Run the exploration algorithm
-ros2 launch robot_exploration lawn_mower exploration.launch.py
+ros2 launch robot_exploration exploration.launch.py
 ```
 
 Once running, the robot will **autonomously explore and cover all grassy areas** within the map.
