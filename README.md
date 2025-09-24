@@ -16,7 +16,11 @@ Using **ROS 2 Jazzy**, **Gazebo Harmonic**, and an **exploration algorithm**, th
 * **Raspberry Pi 4 Model B (8 GB RAM)** – onboard processing unit
 * **Chassis & Mower Platform** – differential drive base with cutting mechanism
  
-![c42b860a-9370-44df-a40b-9d560822c671](https://github.com/user-attachments/assets/c339b778-9ff6-47b5-951a-9f35350e186a)
+
+![Untitled video - Made with Clipcha](https://github.com/user-attachments/assets/ee1161d4-048d-4a52-9cf2-2378df0d2111)
+
+![Untitled video - Made with Clipch](https://github.com/user-attachments/assets/89f9f742-4533-4bc9-a29f-160f5f98124e)
+
 
 ## 🛠️ Software Stack
 
