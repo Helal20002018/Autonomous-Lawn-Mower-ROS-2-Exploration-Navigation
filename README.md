@@ -6,7 +6,8 @@
 This project implements an **autonomous lawn mower robot** capable of navigating and covering all grassy areas in a given environment.
 Using **ROS 2 Jazzy**, **Gazebo Harmonic**, and an **exploration algorithm**, the robot autonomously scans the environment, builds a map, and ensures complete area coverage while mowing.
 
-![Generated File April 19, 2025 - 11_14PM](https://github.com/user-attachments/assets/52dad1af-4ba5-4f41-aef0-0b3de3c1ffa9)![d0e1b159-8db2-432e-a1a4-fb8f1d0ccb30](https://github.com/user-attachments/assets/6894409c-842d-4ed0-9ad9-ee1609b875e6)
+  
+  ![Generated File April 19, 2025 - 11_14PM](https://github.com/user-attachments/assets/52dad1af-4ba5-4f41-aef0-0b3de3c1ffa9)
 
 
 ## 🔧 Hardware Components
