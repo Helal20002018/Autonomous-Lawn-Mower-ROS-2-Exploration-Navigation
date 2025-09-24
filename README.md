@@ -15,6 +15,8 @@ Using **ROS 2 Jazzy**, **Gazebo Harmonic**, and an **exploration algorithm**, th
 * **RPLiDAR A1** – for 2D LiDAR-based mapping and obstacle detection
 * **Raspberry Pi 4 Model B (8 GB RAM)** – onboard processing unit
 * **Chassis & Mower Platform** – differential drive base with cutting mechanism
+ 
+![c42b860a-9370-44df-a40b-9d560822c671](https://github.com/user-attachments/assets/c339b778-9ff6-47b5-951a-9f35350e186a)
 
 ## 🛠️ Software Stack
 
